@@ -633,74 +633,58 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
 
 灣灣1,#genre#
-台视新闻,http://lytcyy.qcytv.top/wz7.php?id=34
-中天新聞,http://lytcyy.qcytv.top/wz7.php?id=36
-东森新闻,http://lytcyy.qcytv.top/wz7.php?id=38
-东森财经,http://lytcyy.qcytv.top/wz7.php?id=39
-华视新闻,http://lytcyy.qcytv.top/wz7.php?id=41
-TVBS新闻台,http://lytcyy.qcytv.top/wz7.php?id=42
-民视新闻台,http://lytcyy.qcytv.top/wz7.php?id=32
-三立iNEWS,http://lytcyy.qcytv.top/wz7.php?id=43
-三立Live新闻,http://lytcyy.qcytv.top/wz7.php?id=44
-壹新闻,http://lytcyy.qcytv.top/wz7.php?id=46
-卫视中文,http://lytcyy.qcytv.top/wz7.php?id=68
-八大综合,http://lytcyy.qcytv.top/wz7.php?id=126
-三立台湾,http://lytcyy.qcytv.top/wz7.php?id=129
-三立都会,http://lytcyy.qcytv.top/wz7.php?id=131
-东森超视,http://lytcyy.qcytv.top/wz7.php?id=135
-中天亚洲,http://lytcyy.qcytv.top/wz7.php?id=137
-星卫电影,http://lytcyy.qcytv.top/wz7.php?id=66
-东森电影,http://lytcyy.qcytv.top/wz7.php?id=69
-星空电影,http://lytcyy.qcytv.top/wz7.php?id=86
-美食星球,http://lytcyy.qcytv.top/wz7.php?id=102
-民视,http://lytcyy.qcytv.top/wz7.php?id=24
-民视第一台,http://lytcyy.qcytv.top/wz7.php?id=25
-民视台湾台,http://lytcyy.qcytv.top/wz7.php?id=26
-民視綜藝,http://lytcyy.qcytv.top/wz7.php?id=27
-中视,http://lytcyy.qcytv.top/wz7.php?id=29
-公视,http://lytcyy.qcytv.top/wz7.php?id=31
-八大第一,http://lytcyy.qcytv.top/wz7.php?id=125
-八大娱乐,http://lytcyy.qcytv.top/wz7.php?id=128
-WWE,http://lytcyy.qcytv.top/wz7.php?id=119
-BBC World News,http://lytcyy.qcytv.top/wz7.php?id=47
-ABCnews,http://lytcyy.qcytv.top/wz7.php?id=48
-CNN,http://lytcyy.qcytv.top/wz7.php?id=49
-NHK World,http://lytcyy.qcytv.top/wz7.php?id=50
-CNA,http://lytcyy.qcytv.top/wz7.php?id=51
-HBO HD,http://lytcyy.qcytv.top/wz7.php?id=59
-HBO_HITS,http://lytcyy.qcytv.top/wz7.php?id=60
-HBO_Family,http://lytcyy.qcytv.top/wz7.php?id=61
-One,http://lytcyy.qcytv.top/wz7.php?id=81
-Warner TV,http://lytcyy.qcytv.top/wz7.php?id=82
-Star Movies,http://lytcyy.qcytv.top/wz7.php?id=84
-Movies Now,http://lytcyy.qcytv.top/wz7.php?id=85
-Natgeo_HD,http://lytcyy.qcytv.top/wz7.php?id=87
-龍翔電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
-東森电影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
-纬来电影HD,http://107.167.5.66:80/mylive/102/2063/index.m3u8
-CINEMAX,http://107.167.5.66:80/mylive/102/2070/index.m3u8
-卫视电影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-年代新闻,http://107.167.5.66/mylive/102/2050/index.m3u8
-非凡新闻,http://107.167.5.66/mylive/102/2058/index.m3u8
-东森电影,http://107.167.5.66/mylive/102/2062/index.m3u8
-龍翔时代,http://107.167.5.66/mylive/102/2064/index.m3u8
-纬来电影,http://107.167.5.66/mylive/102/2063/index.m3u8
-HBO,http://107.167.5.66/mylive/102/2065/index.m3u8
-HBO GO,http://107.167.5.66/mylive/102/2070/index.m3u8
-HBO台1,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-高清时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-亚洲新闻台(CNA),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NOW新闻,http://iptv5.phoves.com.cn/mytv/hodtv.php?id=18
-莲花卫视,http://0x60n703.dongtaiyuming.net/live/8/index.m3u8
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-国家地理野生频道,http://46.149.191.219:9109/play/a005
-TV-6740,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+華視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
+中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
+中天电视,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+TVBSNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
+三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立 iNEWS 新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+寰宇新聞頻道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+東森新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcnews.m3u8
+東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
+大愛一臺,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai1.m3u8
+大愛二臺,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
+大愛海外頻道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai3.m3u8
+彰化生活台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sdtv.m3u8
+GSTV 幸福空間居家台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
+SBN全球財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
+運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+國會頻道１,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary1.m3u8
+國會頻道２,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/palimentary2.m3u8
+Hit Fm 107.7,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hitfm.m3u8
+網路流行音樂電台Chinese POP Music,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
+8FM_my,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/8fm.m3u8
+ABC News (Australia),https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsau.m3u8
+ABC News (US),https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
+ABC 7 News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abc7news.m3u8
+Africa News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/africanews.m3u8
+ARIRANG NEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/arirangnews.m3u8
+CNA,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cna.m3u8
+Bernama News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bernamanews.m3u8
+JapaNews24,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/japanews.news
+Bloomberg Global Financial News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bloombergfinance.m3u8
+NBC News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbcnews.m3u8
+NBC2,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
+RT UK News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/rtuknews.m3u8
+RT News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/rtnews.m3u8
+Al Jazeera English,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+TRTWORLD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/trtworld.m3u8
+FRANCE 24 English,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/france24.m3u8
+Euronews English,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/euronews.m3u8
+DW News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/dwnews.m3u8
+Hokkaido News 24,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8
+YNT News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/yntnews.m3u8
+NasaSpace,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nasaearthview.m3u8
+Earth View,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/spaceviewearth.m3u8
+iPanda,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ipanda.m3u8
+Bird Park,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/birdpark.m3u8
+Learn English1,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/learnenglish1.m3u8
+Learn Japanese,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/learnjapanese.m3u8
+ABCD Sing with Leo,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcsing.m3u8
 
 灣灣2,#genre#
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
