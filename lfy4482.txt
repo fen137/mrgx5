@@ -602,7 +602,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
 now爆谷台,http://45.11.92.252/luck/940049/26
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#https://www.navchina.cf/IPTV/now.php?id=331
-now新聞台,https://ye23.byethost32.com/dl/now.php?id=332#http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
+now新聞台,http://iptv2.phoves.com.cn:80/iptv/api/proxy.php?vid=xg&id=238&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516,https://ye23.byethost32.com/dl/now.php?id=332#http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 賽馬 直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
