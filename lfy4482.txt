@@ -113,9 +113,8 @@ CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
+长津湖,https://zy.1080p.icu:9145/data/1633600243.m3u8
 中国卫视,#genre#
-
 东南卫视 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8
 东南卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 东方卫视 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8
