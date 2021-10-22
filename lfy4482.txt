@@ -24,7 +24,7 @@ CCTV11 3.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m
 CCTV11 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
 CCTV12 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
 CCTV12 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
-CCTV13 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+CCTV13 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV14 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
 CCTV14 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV15 1.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8
