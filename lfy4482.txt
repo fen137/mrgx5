@@ -919,15 +919,15 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 港澳台极速2,#genre#
 
 J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
-翡翠台,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
-明珠台,https://p2.weizan.cn/1646497941/724923712381534274/live.m3u8
+翡翠台,https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8#https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
+明珠台,https://p2.weizan.cn/1646497941/583790710723181991/live.m3u8#https://p2.weizan.cn/1646497941/724923712381534274/live.m3u8
 无线新闻,http://v3948069e.live.126.net/live/hod900.flv
-无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+无线新闻,https://p2.weizan.cn/1646497941/113158785015619765/live.m3u8#http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 无线新闻,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
 NOW新闻,https://ye23.byethost32.com/dl/now.php?id=332#http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
 VIUT,https://p2.weizan.cn/1646497941/298463206624524692/live.m3u8
 TVB星河,https://p2.weizan.cn/1646497941/671612119223675684/live.m3u8
-有线新闻,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
+有线新闻,https://p2.weizan.cn/1646497941/614105386721937651/live.m3u8#https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
 有线新闻,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
 有线603,https://p2.weizan.cn/1646497941/983713851238420990/live.m3u8
 粤语电影,https://p2.weizan.cn/1646497941/965138011405789996/live.m3u8
