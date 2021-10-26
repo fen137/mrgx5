@@ -859,7 +859,7 @@ HBO HD,http://45.11.92.153/lbq/twtv88.php?id=332
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8#http://61.238.6.49:8000/bysid/1
 J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
-无线新闻,https://r2.weizan.cn/v/1646497941_673946820532880689.flv
+无线新闻,http://livetv.dnsfor.me/channel.10.m3u8#https://r2.weizan.cn/v/1646497941_673946820532880689.flv
 无线新闻,http://%76%33%39%34%38%30%36%39%65%2e%6c%69%76%65%2e%31%32%36%2e%6e%65%74/%6c%69%76%65/%68%6f%64%39%30%30%2e%66%6c%76
 无线新闻,http://ftp9524803.host166.gotoip4.cn/tvb.php?id=1
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
