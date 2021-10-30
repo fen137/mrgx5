@@ -883,7 +883,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtm
 鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
 now爆谷台,http://45.11.92.252/luck/940049/26
 now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8#https://www.navchina.cf/IPTV/now.php?id=331
-now新聞台,http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv#http://iptv2.phoves.com.cn:80/iptv/api/proxy.php?vid=xg&id=238&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516#https://ye23.byethost32.com/dl/now.php?id=332#http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
+now新聞台,http://ewcdnsite06.nowe.com/session/09-1464fe1525d61d73690f604dfa424/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=98e108eafa0f30cb4f4b083f51211de1_1635652388#http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv#http://iptv2.phoves.com.cn:80/iptv/api/proxy.php?vid=xg&id=238&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516#https://ye23.byethost32.com/dl/now.php?id=332#http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
 now財經台,https://www.navchina.cf/IPTV/now.php?id=333
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 賽馬 直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
@@ -923,7 +923,7 @@ J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
 无线新闻,http://v3948069e.live.126.net/live/hod900.flv
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619765/live.m3u8#http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 无线新闻,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
-NOW新闻,https://ye23.byethost32.com/dl/now.php?id=332#http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
+NOW新闻,http://ewcdnsite06.nowe.com/session/09-1464fe1525d61d73690f604dfa424/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=98e108eafa0f30cb4f4b083f51211de1_1635652388#https://ye23.byethost32.com/dl/now.php?id=332#http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
 VIUT,https://p2.weizan.cn/1646497941/298463206624524692/live.m3u8
 TVB星河,https://p2.weizan.cn/1646497941/671612119223675684/live.m3u8
 有线新闻,https://p2.weizan.cn/1646497941/614105386721937651/live.m3u8#https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
