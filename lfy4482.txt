@@ -614,6 +614,55 @@ CRI 客家之声,http://sk.cri.cn/hakka.m3u8
 CRI 闽南之音,http://sk.cri.cn/minnan.m3u8
 CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+
+港澳p5p,#genre#
+凤凰资讯台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
+凤凰资讯台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
+凤凰中文台,p5p://fccs.123178.top:9906/60435538​​0000ff4606f7b06cbafec3a5.ts
+凤凰中文台,p5p://fccs.123178.top:9906/60435538​​0000ff4606f7b06cbafec3a5.ts
+凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
+凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
+私人影院,p5p://fccs.123178.top:9906/612b76530005bddc0079e572c66e5249
+J2,p5p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04
+J2,p5p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
+J2,p5p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
+翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+TVB明珠,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
+TVB明珠,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
+TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
+TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
+TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af
+J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
+J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
+互动新闻台,p5p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
+互动新闻台,p5p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
+互动新闻台,p5p://fccs.123178.top:9906/60ed1aee000cb6580fa7e0fdc9ca8c4e
+RK31,p5p://fccs.123178.top:9906/60693efb0004b7c815bdea9b4ac50fcb.ts
+RK32,p5p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
+RK32,p5p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
+VIU,p5p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
+VIU,p5p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
+VIU 六,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
+VIU 六,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
+有线新闻,p5p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
+有线新闻,p5p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
+有线财经台,p5p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
+有线财经台,p5p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
+有线18台,p5p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
+有线18台,p5p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
+有线603高清,p5p://fccs.123178.top:9906/60693cbb000cbc0e15b522a901468cb2.ts
+有线603高清,p5p://fccs.123178.top:9906/60693cbb000cbc0e15b522a901468cb2.ts
+有线娱乐台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
+有线娱乐台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
+有线体育台,p5p://fccs.123178.top:9906/60693dc3000cb8a915b929e8dfe270a3.ts
+有线体育台,p5p://fccs.123178.top:9906/60693dc3000cb8a915b929e8dfe270a3.ts
+香港福斯电影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
+香港福斯电影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
+星空卫视,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
+星空卫视,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
+澳门莲花台,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050
+
 港澳台,#genre#
 
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -858,7 +907,7 @@ HBO HD,http://45.11.92.153/lbq/twtv88.php?id=332
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8#http://61.238.6.49:8000/bysid/1
 J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8#https://r2.weizan.cn/v/1646497941_673946820532880689.flv
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://livetv.dnsfor.me/channel.10.m3u8#https://r2.weizan.cn/v/1646497941_673946820532880689.flv
 无线新闻,http://%76%33%39%34%38%30%36%39%65%2e%6c%69%76%65%2e%31%32%36%2e%6e%65%74/%6c%69%76%65/%68%6f%64%39%30%30%2e%66%6c%76
 无线新闻,http://ftp9524803.host166.gotoip4.cn/tvb.php?id=1
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
