@@ -917,7 +917,7 @@ C+,http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1
 
 港澳台极速2,#genre#
 
-J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
+J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv#https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303678/live.m3u8#https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8#https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
 明珠台,https://p2.weizan.cn/1646497941/583790710723181991/live.m3u8#https://p2.weizan.cn/1646497941/724923712381534274/live.m3u8
 无线新闻,http://v3948069e.live.126.net/live/hod900.flv#https://p2.weizan.cn/1646497941/113158785015619766/live.m3u8
