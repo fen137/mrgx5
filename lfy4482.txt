@@ -585,35 +585,111 @@ CGTN纪录576[785*576],http://39.134.155.141/PLTV/88888888/224/3221225507/index.
 湖南金鹰纪实4M576[768*576],http://39.134.155.135/PLTV/88888888/224/3221225623/index.m3u8
 果洛4M576[1280*720],http://39.134.155.149/PLTV/88888888/224/3221225662/index.m3u8
 
-中国广播,#genre#
-中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
-CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
-CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
-英语资讯广播 China Plus Radio,http://cnlive.cnr.cn/hls/yyzxgb.m3u8
-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
-CRI 海峡飞虹,http://sk.cri.cn/hxfh.m3u8
-CRI 客家之声,http://sk.cri.cn/hakka.m3u8
-CRI 闽南之音,http://sk.cri.cn/minnan.m3u8
-CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
-CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+广东地区,#genre#
+广东珠江,http://119.129.58.100:4433/tsfile/live/1001_1.m3u8
+广东体育,http://119.129.58.100:4433/tsfile/live/1000_1.m3u8
+广东珠江,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1183
+广东体育,http://host496323.us.ooqr.com/pltv/gz.php?id=gdty
+广东经济科教,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1196
+广东新闻,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1186
+广东公共,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1185
+广东影视,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1199
+广东珠江,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
+广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+JY揭阳综合,http://113.101.28.169:808/hls/56/index.m3u8
+JY揭阳综合,http://host496323.us.ooqr.com/pltv/gz.php?id=21
+揭阳公共,http://113.101.28.169:808/hls/72/index.m3u8
+揭阳公共,http://host496323.us.ooqr.com/pltv/gz.php?id=22
+汕头综合,http://host496323.us.ooqr.com/pltv/gz.php?id=24
+潮州综合,http://host496323.us.ooqr.com/pltv/gz.php?id=23
+揭西台,http://host496323.us.ooqr.com/pltv/gz.php?id=19
+揭西台,http://host496323.us.ooqr.com/pltv/gz.php?id=39
+JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
+汕头综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/2398
+潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+普宁综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/2450
+普宁综合,http://www.nettvpro.live/hls/itouch.php?id=2450
+广东体育,http://host496323.us.ooqr.com/pltv/gz.php?id=1
+广东经济科教,http://host496323.us.ooqr.com/pltv/gz.php?id=66
+广东经济科教,http://host496323.us.ooqr.com/pltv/gz.php?id=gdjjkj
+广东影视,http://host496323.us.ooqr.com/pltv/gz.php?id=31
+广东公共,http://host496323.us.ooqr.com/pltv/gz.php?id=27
+广东新闻,http://host496323.us.ooqr.com/pltv/gz.php?id=28
+广东新闻,http://120.237.254.197/nclive.grtn.cn/xwpd/sd/live.m3u8#http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1186
+广东公共,http://120.237.254.197/nclive.grtn.cn/ggpd/sd/live.m3u8#http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1185
+广东国际,http://120.237.254.197/nclive.grtn.cn/gjpd/sd/live.m3u8
+广东影视,http://120.237.254.197/nclive.grtn.cn/tvs4/sd/live.m3u8#http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1199
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东经济科教,http://120.237.254.197/nclive.grtn.cn/tvs1//live.m3u8#http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1196
+广东经济科教,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东综艺,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1198
+广东点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+广东体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广东少儿,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1200
+广东嘉佳卡通,http://womlive.cloud.wo.cn/tvlive/100074/otpzod_otpzod,100074_hls_pull_2000K_live.m3u8
+广东嘉佳卡通,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1187
+广东房产,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1192
+广东南方,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1196
+南国都市,http://149.129.100.78/gztv.php?id=shenghuo#http://ye23.win/iptv/gztv.php?id=shenghuo
+广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
+广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
+广州新闻,http://womlive.cloud.wo.cn/tvlive/100085/otpzod_otpzod,100085_hls_pull_2000K_live.m3u8 
+广州法制,http://149.129.100.78/gztv.php?id=fazhi#http://ye23.win/iptv/gztv.php?id=fazhi
+广州竞赛,http://149.129.100.78/gztv.php?id=jingsai#http://ye23.win/iptv/gztv.php?id=jingsai
+广州竞赛,http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
+广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
+广州综合,http://149.129.100.78/gztv.php?id=zhonghe#http://ye23.win/iptv/gztv.php?id=zhonghe
+广州少儿,http://ftp9524803.host166.gotoip4.cn/tm.php?id=GZChild
+广东珠江,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1183
+广东珠江,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=079&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+深圳都市频道,http://ye23.win/iptv/sztv.php?id=2#http://149.129.100.78/sztv.php?id=2
+深圳电视剧频道,http://ye23.win/iptv/sztv.php?id=3#http://149.129.100.78/sztv.php?id=3
+深圳公共频道,http://ye23.win/iptv/sztv.php?id=4#http://149.129.100.78/sztv.php?id=4
+深圳财经生活,http://ye23.win/iptv/sztv.php?id=5#http://149.129.100.78/sztv.php?id=5
+深圳娱乐频道,http://ye23.win/iptv/sztv.php?id=6#http://149.129.100.78/sztv.php?id=6
+深圳少儿频道,http://ye23.win/iptv/sztv.php?id=7#http://149.129.100.78/sztv.php?id=7
+深圳移动电视,http://ye23.win/iptv/sztv.php?id=8#http://149.129.100.78/sztv.php?id=8
+深圳宜和购物,http://ye23.win/iptv/sztv.php?id=9#http://149.129.100.78/sztv.php?id=9
+深圳龙岗,http://liveplay.sznews.com/66_norecord_live/357.m3u8
+深圳东部,http://liveplay.sznews.com/66_norecord_live/343.m3u8
+深圳众创,http://liveplay.sznews.com/66_norecord_live/341.m3u8
+生活,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+惠州1套 ,http://livehuiz.chinamcache.com/live/zb01.m3u8#http://livehuiz.chinamcache.com/live/zb01.m3u8
+惠州2套 ,http://livehuiz.chinamcache.com/live/zb02.m3u8#http://livehuiz.chinamcache.com/live/zb02.m3u8
+惠东综合,http://www.ldiptv.xyz/daili/touchtv.php?id=2404
+河源新闻综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151
+河源公共频道,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199#http://www.ldiptv.xyz/daili/touchtv.php?id=2496
+阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8
+阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
+阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
+阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
+番禺综合,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+佛山综合台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8#http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1227
+佛山影视台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+佛山公共台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8#http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1229
+佛山顺德台,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
+佛山南海区,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
+韶关公共,rtmp://www.sgmsw.cn:1935/live/9P424TC5M000AFO13CXK6GN6BOA889D2
+肇庆综合,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1232
+蛇口,http://218.17.99.211:5080/hls/ttsw6ccn.m3u8#http://218.17.99.211:82/hls/d4encs75.m3u8?checkedby:hlscat.com
+蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8#
+蛇口,http://218.17.99.211:5080/livestream/ttsw6ccn.flv#http://218.17.99.211:5080/livestream/ttsw6ccn.flv
+东莞综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
+东莞公共,rtmp://stream.sun0769.com/dgrtv1/mp4:tv2
+清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
+清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
+清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
+广德新闻 ,http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200324143845.m3u8
+湛江综合 ,http://zjstyhls.tianma3600.com/zjsty/zhpd.m3u8
+湛江公共 ,http://zjstyhls.tianma3600.com/zjsty/ggpd.m3u8
+梅州-丰顺综合,https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
+梅州-丰顺综合,https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
+梅州-丰顺影视,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
+梅州-丰顺影视,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
+梅州-平远综合,https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8
 
 港澳台,#genre#
 
