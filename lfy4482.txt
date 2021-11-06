@@ -826,12 +826,7 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 中天娱乐，http://125.227.210.37:15796/VideoInput/play.ts
 东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 东森戏剧，http://125.227.210.37:17524/VideoInput/play.ts
-民视第一,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
-民视台湾,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
-民视综艺,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
-民视旅游,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
-惊险刺激，http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
-港澳台2,#genre#
+
 
 民視,http://45.11.92.153/lbq/twtv88.php?id=26
 民視,http://45.11.92.153/lbq/twtv88.php?id=336
@@ -965,11 +960,7 @@ HBO HD,http://45.11.92.153/lbq/twtv88.php?id=332
 香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#https://www.navchina.cf/IPTV/icable.php?id=77
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#https://cdn.hkdtmb.com/hls/81b/index.m3u8#http://61.238.6.49:8000/bysid/1
-J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://livetv.dnsfor.me/channel.10.m3u8#https://r2.weizan.cn/v/1646497941_673946820532880689.flv
-无线新闻,http://%76%33%39%34%38%30%36%39%65%2e%6c%69%76%65%2e%31%32%36%2e%6e%65%74/%6c%69%76%65/%68%6f%64%39%30%30%2e%66%6c%76
-无线新闻,http://ftp9524803.host166.gotoip4.cn/tvb.php?id=1
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
@@ -979,7 +970,7 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#https://cdn.hkdtmb.com/hls/96/index.m3u8#http://61.238.6.49:8000/bysid/96
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99
 有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
-有线新闻台,https://r2.weizan.cn/v/1646497941_697113090439139174.flv#https://api.leonardpark.dev/live/icable/109#https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37#https://api.leonardpark.dev/live/icable/109#https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1628990336-1629076916-29c350ab94bec3f9a06a92ea1eb81a89-8d95fce207e388b_854-03/freehd209.live/playlist.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109#https://api.leonardpark.dev/live/icable/109#https://www.navchina.cf/IPTV/icable.php?id=37#https://api.leonardpark.dev/live/icable/109#https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-94428f8c-1628990336-1629076916-29c350ab94bec3f9a06a92ea1eb81a89-8d95fce207e388b_854-03/freehd209.live/playlist.m3u8
 有線直播新聞台,https://www.navchina.cf/IPTV/icable.php?id=39#https://api.leonardpark.dev/live/icable/110
 有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 有線高清603台,http://45.11.92.252/luck/940049/13
