@@ -1555,6 +1555,28 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
+18台,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
+
+J2,https://p2.weizan.cn/1646497941/241849434346185861/live.m3u8
+
+翡翠台,https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8
+
+
+
+明珠台,https://p2.weizan.cn/1646497941/583790710723181993/live.m3u8
+
+新闻台,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
+
+18台,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
+
+ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
+
+
+
+HKC新闻台,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
+
+603,https://p2.weizan.cn/1646497941/912180711177351574/live.m3u8
+
 [高清]翡翠台,https://vip:vip930@vip.hkdtmb.com/hls/81/index.m3u8
 高清]J2台,https://vip:vip930@vip.hkdtmb.com/hls/82/index.m3u8
 [高清]無綫新聞台,https://vip:vip930@vip.hkdtmb.com/hls/83/index.m3u8
