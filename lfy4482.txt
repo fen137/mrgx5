@@ -1609,9 +1609,17 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线新闻,https://p2.weizan.cn/1646497941/113158785015619780/live.m3u8
+有线新闻,https://p2.weizan.cn/1646497941/614105386721937666/live.m3u8
+有线603,https://p2.weizan.cn/1646497941/175087150715723853/live.m3u8
+翡翠台,https://p2.weizan.cn/1646497941/173900819035303690/live.m3u8
+J2,https://p2.weizan.cn/1646497941/805766058439696929/live.m3u8
+ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
-
+TVBS,https://cn9.9cxz.com/1/tvbs56/index.m3u8
+东森新闻台,https://cn9.9cxz.com/1/dsxw/hls/index.m3u8
+中天新闻台,https://cn9.9cxz.com/1/qq/hls/index.m3u8
 TVB星河,http://host496323.us.ooqr.com/pltv/gz.php?id=tvbxh
 TVB星河,http://host496323.us.ooqr.com/pltv/gz.php?id=135
 龙翔时代,http://host496323.us.ooqr.com/pltv/gz.php?id=lxsd
