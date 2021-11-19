@@ -1608,7 +1608,7 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
-无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
 
