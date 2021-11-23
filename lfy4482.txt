@@ -1575,7 +1575,9 @@ J2,https://p2.weizan.cn/1646497941/805766058439696929/live.m3u8
 ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
-
+环宇新闻,http://al.matchdownstream.huya.com/huyalive/6046175690-6046175690-906e01645f78f0c1eb17cc2292947941-8661794545-10057-A-0-1.flv
+中天新闻,http://al.matchdownstream.huya.com/huyalive/7846123032-7846123032-2868083572967b50417288c6b9b4de4d-1030075186-10057-A-0-1.flv
+TVBS新闻,http://al.matchdownstream.huya.com/huyalive/2837243714-2837243714-dfa140ac067862ab79843700fce9a7b6-6396737013-10057-A-0-1.flv
 台视，http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 中视，http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 华视，http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
