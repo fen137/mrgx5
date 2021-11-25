@@ -835,17 +835,18 @@ CETV1,http://39.135.34.142:8080/000000001000/1000000002000027253/1.m3u8?
 CGTV,http://39.135.34.142:8080/000000001000/8428799834696888424/1.m3u8?
 
 广东地区,#genre#
+
+广东珠江,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
 广东珠江,http://119.129.58.100:4433/tsfile/live/1001_1.m3u8
-广东体育,http://119.129.58.100:4433/tsfile/live/1000_1.m3u8
 广东珠江,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1183
+广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://119.129.58.100:4433/tsfile/live/1000_1.m3u8
 广东体育,http://host496323.us.ooqr.com/pltv/gz.php?id=gdty
 广东经济科教,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1196
 广东新闻,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1186
 广东公共,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1185
 广东影视,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1199
-广东珠江,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
-广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 JY揭阳综合,http://113.101.28.169:808/hls/56/index.m3u8
 JY揭阳综合,http://host496323.us.ooqr.com/pltv/gz.php?id=21
 揭阳公共,http://113.101.28.169:808/hls/72/index.m3u8
@@ -971,18 +972,12 @@ J2,https://p2.weizan.cn/1646497941/805766058439696953/live.m3u8
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619795/live.m3u8
 无线新闻,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 now新聞,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
 有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 有线新闻,http://p2.weizan.cn/1646497941/614105386721937682/live.m3u8
 
 有线603,https://p2.weizan.cn/1646497941/175087150715723861/live.m3u8
 ViuTV,https://p2.weizan.cn/1646497941/584748994834606969/live.m3u8
-
-有线综合娱乐台,http://gslb.cdn.hk.chinamobile.com/live/8dd373fc754242109c0c9b2d61e6bd4f/7caf709f6883415188ec79faf2593726.m3u8
-有线财经资讯台,http://gslb.cdn.hk.chinamobile.com/live/a647b52dca1e499d958e68f649ad8c2c/bf137997aaf94501b6b0521f3fea1df2.m3u8
-有线财经资讯台,http://gslb.cdn.hk.chinamobile.com/live/a647b52dca1e499d958e68f649ad8c2c/bf137997aaf94501b6b0521f3fea1df2-2.m3u8
-C+,http://gslb.cdn.hk.chinamobile.com/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1f3411ef425087cc48da03719c08-1.m3u8
 无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
 环宇新闻,http://al.matchdownstream.huya.com/huyalive/6046175690-6046175690-906e01645f78f0c1eb17cc2292947941-8661794545-10057-A-0-1.flv
