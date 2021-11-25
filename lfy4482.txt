@@ -836,9 +836,6 @@ CGTV,http://39.135.34.142:8080/000000001000/8428799834696888424/1.m3u8?
 
 广东地区,#genre#
 
-广东珠江,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
-广东珠江,http://119.129.58.100:4433/tsfile/live/1001_1.m3u8
-广东珠江,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1183
 广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://119.129.58.100:4433/tsfile/live/1000_1.m3u8
