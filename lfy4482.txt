@@ -889,6 +889,9 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
+
+J2,p9p://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
+
 J2,https://p2.weizan.cn/1646497941/805766058439696953/live.m3u8
 J2,https://p2.weizan.cn/1646497941/805766058439696953/live.m3u8
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
