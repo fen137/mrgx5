@@ -12,13 +12,6 @@ CCTV-1,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m
 CCTV-1,http://58.20.64.92:9999/tsfile/live/0001_1.m3u8
 CCTV-1,http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-1,http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
-CCTV-2,http://39.135.238.47:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
-CCTV-2,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
-CCTV-2,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
-CCTV-2,http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
-CCTV-2,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8
-CCTV-2,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-CCTV-2,http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 CCTV-2,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226993/index.m3u8
 CCTV-2,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
 CCTV-2,http://223.110.245.148/ott.js.chinamobile.com/PLTV/3/224/3221227543/index.m3u8
