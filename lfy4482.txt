@@ -887,27 +887,45 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 港极速,#genre#
 
 翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
+
+翡翠台,http://lius.usa7.20212021.ga/tbs.php?id=1
+
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
+J2,http://lius.usa7.20212021.ga/tbs.php?id=12
 
-J2,p9p://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
+明珠台,http://lius.usa7.20212021.ga/tbs.php?id=13
 
-J2,https://p2.weizan.cn/1646497941/805766058439696953/live.m3u8
-J2,https://p2.weizan.cn/1646497941/805766058439696953/live.m3u8
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
+
+无线新闻,http://lius.usa7.20212021.ga/tbs.php?id=9
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619795/live.m3u8
 无线新闻,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
-now新聞,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
+Now新聞,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
+
+Now新聞,http://lius.usa7.20212021.ga/tbs.php?id=16
+
+
 有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 有线新闻,http://p2.weizan.cn/1646497941/614105386721937682/live.m3u8
 有线603,https://p2.weizan.cn/1646497941/175087150715723861/live.m3u8
 ViuTV,https://p2.weizan.cn/1646497941/584748994834606969/live.m3u8
+
+ViuTV,http://lius.usa7.20212021.ga/tbs.php?id=8
+
 无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
 
+耀才财经台,http://lius.usa7.20212021.ga/tbs.php?id=19
+
+耀才财经台,http://lius.usa7.20212021.ga/tbs.php?id=19
+
 中天新闻,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 民视新闻,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+
+民視第一,http://lius.usa7.20212021.ga/tbs.php?id=100
+
 三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 TVBS新闻,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 TVBS HD,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
