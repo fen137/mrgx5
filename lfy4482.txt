@@ -1066,6 +1066,20 @@ CN卡通频道,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch58
 
 港台代理,#genre#
 
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+Now直播331台,https://api.leonardpark.dev/live/now/331
+
+HKC有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
+HKC有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
+HKC有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
 TVBS新闻台,http://qq286780.obwi.cn/iptv.php?tid=gt&id=54&p=0 
 东森新闻台,http://qq286780.obwi.cn/iptv.php?tid=gt&id=55&p=0 
 三立新闻台,http://qq286780.obwi.cn/iptv.php?tid=gt&id=57&p=0 
