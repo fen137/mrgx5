@@ -80,8 +80,11 @@ CCTV-12,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 CCTV-12,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
 CCTV-12,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225556/index.m3u8
 CCTV-12,http://117.148.179.160/PLTV/88888888/224/3221231660/index.m3u8
+
+CCTV-13,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV-13,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227387/index.m3u8
+
 CCTV-13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-13,http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
 CCTV-13,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 CCTV-13,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227387/index.m3u8
 CCTV-13,http://60.255.49.202/live/CCTV-xw_4000.m3u8
