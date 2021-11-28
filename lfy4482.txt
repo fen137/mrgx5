@@ -878,28 +878,43 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
 J2,http://lius.usa7.20212021.ga/tbs.php?id=12
 
+明珠台,http://159.75.123.131/xiaoqi/gudouyouxian.php?id=1351_4500
+明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 明珠台,http://lius.usa7.20212021.ga/tbs.php?id=13
 
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
-
+无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+无线新闻,http://159.75.123.131/xiaoqi/tvb.php?id=1
+无线新闻,http://zhiboyuan.cf:2021/abc.php?id=2 
 无线新闻,http://lius.usa7.20212021.ga/tbs.php?id=9
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619795/live.m3u8
 无线新闻,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
-Now新聞,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
+Now新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/index.flv
+Now新闻,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
 
-Now新聞,http://lius.usa7.20212021.ga/tbs.php?id=16
+Now新闻,http://lius.usa7.20212021.ga/tbs.php?id=16
 
-
+有线新闻,http://zhiboyuan.cf:2021/abc.php?id=3
 有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 有线新闻,http://p2.weizan.cn/1646497941/614105386721937682/live.m3u8
 有线603,https://p2.weizan.cn/1646497941/175087150715723861/live.m3u8
+
+ViuTV,http://v3948069e.live.126.net/live/sB8lR2tA2jS8iR7jW2kd4fX5iW4jJ7dE.flv
+
 ViuTV,https://p2.weizan.cn/1646497941/584748994834606969/live.m3u8
 
 ViuTV,http://lius.usa7.20212021.ga/tbs.php?id=8
 
+VIU 6,http://v3948069e.live.126.net/live/wG5kZ2zP4kI3kD4yX4uNOyB4kQ0pG6oK.flv
+
 无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
 无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
+
+香港开电视,http://v3948069e.live.126.net/live/sY0wD0bE1uY5rCOlS3kX1vC4cG0aM4eC.flv
+美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
+RHK32,http://v3948069e.live.126.net/live/jA6fP3oK4lJ0cM7bF7kV9rY8qC6fL1dQ.flv
+C+,http://v3948069e.live.126.net/live/ropcaxhl14651386/13.flv
 
 耀才财经台,http://lius.usa7.20212021.ga/tbs.php?id=19
 
