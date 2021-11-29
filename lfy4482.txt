@@ -814,20 +814,12 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
-翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
-
-翡翠台,http://liuk.usa7.20212021.ga/tbs.php?id=1
-
-翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
-翡翠台,https://p2.weizan.cn/1646497941/173900819035303702/live.m3u8
+翡翠台, http://liuk.usa7.20212021.ga/tbs.php?id=1
 
 J2,http://liuk.usa7.20212021.ga/tbs.php?id=12
-
 J2,http://liuk.usa7.20212021.ga/tbs.php?id=12
 
-明珠台,http://159.75.123.131/xiaoqi/gudouyouxian.php?id=1351_4500
-明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
-明珠台,http://lius.usa7.20212021.ga/tbs.php?id=13
+明珠台,http://liuk.usa7.20212021.ga/tbs.php?id=13
 
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
 无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
@@ -837,13 +829,12 @@ J2,http://liuk.usa7.20212021.ga/tbs.php?id=12
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619795/live.m3u8
 无线新闻,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+
 Now新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/index.flv
 Now新闻,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
-
 Now新闻,http://liuk.usa7.20212021.ga/tbs.php?id=16
 
 有线新闻,http://liuk.usa7.20212021.ga/tbs.php?id=24
-
 有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 有线新闻,http://p2.weizan.cn/1646497941/614105386721937682/live.m3u8
 
