@@ -687,6 +687,35 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://ccav.smymi.com:4000/rtp/239.93.0.175:5140
 西藏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+4K频道,#genre#
+
+cctt-4K,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/ys4Kcq.m3u8 $4K
+超高清电影,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/emdy4k_8000.m3u8 $4K
+CCTV4K,http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV16,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
+爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8 $4K
+爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8 $4K
+爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+纯享4k,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8 $4K
+欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8 $4K
+欢笑剧场4K,http://ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
+欢笑剧场4k,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
+4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+江苏4K测试,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+江苏4K测试,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+河南卫视4k,http://218.29.135.2:4000/udp/225.1.4.254:1300
+南国都市4K,https://aplay.gztv.com/sec/shenghuos.m3u8
+4K花园,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8$8M1080HEVC
+4K修复,http://ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8 $4K
+4k测试,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8 $4K
+4K测试,http://ott.js.chinamobile.com/TVOD/3/224/3221228113/index.m3u8 $4K
+CCTV-16,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8 $4K
+CCTV-16,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-16,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 广东地区,#genre#
 
