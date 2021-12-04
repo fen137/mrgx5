@@ -740,6 +740,16 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
 普宁综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/2450
 普宁综合,http://www.nettvpro.live/hls/itouch.php?id=2450
+
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+电白综合,http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
+电白综合,http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
+潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+潮安综合,http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 广东体育,http://host496323.us.ooqr.com/pltv/gz.php?id=1
 广东经济科教,http://host496323.us.ooqr.com/pltv/gz.php?id=66
 广东经济科教,http://host496323.us.ooqr.com/pltv/gz.php?id=gdjjkj
@@ -884,6 +894,7 @@ RTHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
 有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
 有线电影,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8
 有线财经资讯台,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
+TVB8,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451449/live_194707653_5399055.m3u8
 星空卫视,http://ai7499003.va1.aihost10.top/live/iptv_18.m3u8
 澳门莲花,http://ai7499003.va1.aihost10.top/live/iptv_30.m3u8
 澳门卫视,http://ai7499003.va1.aihost10.top/live/iptv_31.m3u8
