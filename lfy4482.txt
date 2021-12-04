@@ -843,10 +843,11 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
+翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
+
+翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
 翡翠台,http://kktvro.vicp.cc:1700/23489348245/gd.php?id=1350_4500
-翡翠台,http://v3948069e.live.126.net/live/yO5jK1cY6cR5mM0kK9mK1cNolV6uI0sG.flv
-翡翠台,http://liuk.usa7.20212021.ga/tbs.php?id=1
 
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
@@ -869,6 +870,7 @@ Now新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/in
 Now新闻,http://live96.kglink.xyz:8080/live/now_news/now-news.m3u8
 Now新闻,http://liuk.usa7.20212021.ga/tbs.php?id=16
 
+有线新闻,http://anan.jxin122.top/cj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 有线新闻,http://v3948069e.live.126.net/live/5d307912000d8af134325b6a14ba34f6/ggbox/index.flv
 有线新闻,http://liuk.usa7.20212021.ga/tbs.php?id=24
 有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
