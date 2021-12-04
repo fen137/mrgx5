@@ -847,15 +847,12 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
-翡翠台,http://kktvro.vicp.cc:1700/23489348245/gd.php?id=1350_4500
 
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
-J2,http://liuk.usa7.20212021.ga/tbs.php?id=12
 
 明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台,http://v3948069e.live.126.net/live/bK1mK3hM2qD5lL7vI3zX11H4gA7kI9eR.flv
-明珠台,http://liuk.usa7.20212021.ga/tbs.php?id=13
 
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
 无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
@@ -868,11 +865,13 @@ Now新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/in
 开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
 ViuTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
 耀才财经台,http://ai7499003.va1.aihost10.top/live/iptv_19.m3u8
-无线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
-无线财经·资讯台,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
+无线新闻,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
+无线财经,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
+无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
+无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
-NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
+NOW新闻,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
 RTHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
 RTHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
 有线新闻,http://ai7499003.va1.aihost10.top/live/iptv_24.m3u8
@@ -910,22 +909,14 @@ TVBS欢乐,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
 民视台湾,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
 民视第一,http://ai7499003.va1.aihost10.top/live/iptv_100.m3u8
 
-无线直播, http://www.nettvpro.live/hls/tvb.php?id=3
-无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
 
 香港开电视,http://v3948069e.live.126.net/live/sY0wD0bE1uY5rCOlS3kX1vC4cG0aM4eC.flv
 美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
 RHK32,http://v3948069e.live.126.net/live/jA6fP3oK4lJ0cM7bF7kV9rY8qC6fL1dQ.flv
 C+,http://v3948069e.live.126.net/live/ropcaxhl14651386/13.flv
 
-耀才财经台,http://liuk.usa7.20212021.ga/tbs.php?id=19
-
-耀才财经台,http://liuk.usa7.20212021.ga/tbs.php?id=19
-
 中天新闻,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 民视新闻,http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-
-民視第一,http://liuk.usa7.20212021.ga/tbs.php?id=100
 
 三立新闻,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 TVBS新闻,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
