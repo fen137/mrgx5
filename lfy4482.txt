@@ -843,13 +843,12 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
-翡翠台,http://cdn-cn.hkyoutv.com/hls/81/index.m3u8
-翡翠台,https://cdn.hkyoutv.com/hls/81/index.m3u8
+翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
 翡翠台,http://kktvro.vicp.cc:1700/23489348245/gd.php?id=1350_4500
 翡翠台,http://v3948069e.live.126.net/live/yO5jK1cY6cR5mM0kK9mK1cNolV6uI0sG.flv
 翡翠台,http://liuk.usa7.20212021.ga/tbs.php?id=1
 
-J2,http://v3948069e.live.126.net/live/rN9gY7BW5dJ2gO7zKoOV1tP8kU4cT8xH.flv
+J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 J2,http://liuk.usa7.20212021.ga/tbs.php?id=12
 
