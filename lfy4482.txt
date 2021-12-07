@@ -772,6 +772,12 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 广东房产,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1192
 广东南方,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1196
 南国都市,http://149.129.100.78/gztv.php?id=shenghuo#http://ye23.win/iptv/gztv.php?id=shenghuo
+
+广州综合1080P,http://116.199.5.251/hls/gzds.m3u8
+广州法治1080P,http://116.199.5.251/hls/gzqx.m3u8
+广州新闻1080P,http://116.199.5.251/hls/gzxw.m3u8
+广州影视1080P,http://116.199.5.251/hls/gzys.m3u8
+广州竟赛1080P,http://116.199.5.251/hls/gzjs.m3u8
 广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州新闻,http://womlive.cloud.wo.cn/tvlive/100085/otpzod_otpzod,100085_hls_pull_2000K_live.m3u8 
@@ -853,7 +859,7 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
-翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
+翡翠台,rtmp://v3948069e.live.126.net/live/ZpBezRdTm
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
 
