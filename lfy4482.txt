@@ -859,14 +859,14 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
-TVB翡翠台,http://v3948069e.live.126.net/live/ZpBezRdTm.flv
-TVB华丽台,http://v3948069e.live.126.net/live/BNSzPUIPt.flv
-TVB明珠台,http://v3948069e.live.126.net/live/DYWTRbLPK.flv
-TVB经典台,http://v3948069e.live.126.net/aliveflv/lZqkxF550.flv
-TVBJ2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
-TVB-e,http://v3948069e.live.126.net/live/aliveflv/7kFz4uLHF.flv
-TVB星河粤语,http://v3948069e.live.126.net/live/aliveflv/1PbN6bIih.flv
-TVB星河国语,http://v3948069e.live.126.net/live/aliveflv/SIhS4QVXJ.flv
+翡翠台,http://v3948069e.live.126.net/live/ZpBezRdTm.flv
+华丽台,http://v3948069e.live.126.net/live/BNSzPUIPt.flv
+明珠台,http://v3948069e.live.126.net/live/DYWTRbLPK.flv
+经典台,http://v3948069e.live.126.net/aliveflv/lZqkxF550.flv
+J2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
+e,http://v3948069e.live.126.net/live/aliveflv/7kFz4uLHF.flv
+星河粤语,http://v3948069e.live.126.net/live/aliveflv/1PbN6bIih.flv
+星河国语,http://v3948069e.live.126.net/live/aliveflv/SIhS4QVXJ.flv
 天映经典,http://v3948069e.live.126.net/live/aliveflv/EKdN8niWP.flv
 港版粤语美亚,http://v3948069e.live.126.net/live/aliveflv/XobK5APol.flv
 W版原声美亚,rtmp://v3948069e.live.126.net/live/aliveflv/EQLxEaWNq
