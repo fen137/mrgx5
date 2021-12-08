@@ -877,11 +877,8 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
-翡翠台,rtmp://v3948069e.live.126.net/live/ZpBezRdTm
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
-
-J2,http://everydaytv.top/play/iptv800/gt/12/0.m3u8?view&token=780feba1d6ad97e7c744b72910fc00ff
 
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
@@ -890,9 +887,7 @@ J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台,http://v3948069e.live.126.net/live/bK1mK3hM2qD5lL7vI3zX11H4gA7kI9eR.flv
 
-无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
 无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-无线新闻,http://159.75.123.131/xiaoqi/tvb.php?id=1
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 
 Now新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/index.flv
