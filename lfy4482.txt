@@ -773,11 +773,11 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 广东南方,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1196
 南国都市,http://149.129.100.78/gztv.php?id=shenghuo#http://ye23.win/iptv/gztv.php?id=shenghuo
 
-广州综合1080P,http://116.199.5.251/hls/gzds.m3u8
-广州法治1080P,http://116.199.5.251/hls/gzqx.m3u8
-广州新闻1080P,http://116.199.5.251/hls/gzxw.m3u8
-广州影视1080P,http://116.199.5.251/hls/gzys.m3u8
-广州竟赛1080P,http://116.199.5.251/hls/gzjs.m3u8
+广州综合,http://116.199.5.251/hls/gzds.m3u8
+广州法治,http://116.199.5.251/hls/gzqx.m3u8
+广州新闻,http://116.199.5.251/hls/gzxw.m3u8
+广州影视,http://116.199.5.251/hls/gzys.m3u8
+广州竟赛,http://116.199.5.251/hls/gzjs.m3u8
 广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州新闻,http://womlive.cloud.wo.cn/tvlive/100085/otpzod_otpzod,100085_hls_pull_2000K_live.m3u8 
@@ -858,6 +858,22 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 佛山三水,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.flv
 
 港极速,#genre#
+
+TVB翡翠台,http://v3948069e.live.126.net/live/ZpBezRdTm.flv
+TVB华丽台,http://v3948069e.live.126.net/live/BNSzPUIPt.flv
+TVB明珠台,http://v3948069e.live.126.net/live/DYWTRbLPK.flv
+TVB经典台,http://v3948069e.live.126.net/aliveflv/lZqkxF550.flv
+TVBJ2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
+TVB-e,http://v3948069e.live.126.net/live/aliveflv/7kFz4uLHF.flv
+TVB星河粤语,http://v3948069e.live.126.net/live/aliveflv/1PbN6bIih.flv
+TVB星河国语,http://v3948069e.live.126.net/live/aliveflv/SIhS4QVXJ.flv
+天映经典,http://v3948069e.live.126.net/live/aliveflv/EKdN8niWP.flv
+港版粤语美亚,http://v3948069e.live.126.net/live/aliveflv/XobK5APol.flv
+W版原声美亚,rtmp://v3948069e.live.126.net/live/aliveflv/EQLxEaWNq
+港版国语美亚,http://v3948069e.live.126.net/live/aliveflv/Xh0uW2xtk.flv
+无线新闻,http://v3948069e.live.126.net/live/hkwuxxxw123.flv
+无线财经,http://v3948069e.live.126.net/live/aliveflv/kW8Tlpx0X.flv
+有线新闻,http://v3948069e.live.126.net/live/hkyouxxw123.flv
 
 翡翠台,rtmp://v3948069e.live.126.net/live/ZpBezRdTm
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
