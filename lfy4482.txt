@@ -789,12 +789,24 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 广州少儿,http://ftp9524803.host166.gotoip4.cn/tm.php?id=GZChild
 广东珠江,http://ftp9524803.host166.gotoip5.cn/m3u8.php?/iTouchTV/1183
 广东珠江,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=079&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-深圳都市频道,http://ye23.win/iptv/sztv.php?id=2#http://149.129.100.78/sztv.php?id=2
-深圳电视剧频道,http://ye23.win/iptv/sztv.php?id=3#http://149.129.100.78/sztv.php?id=3
-深圳公共频道,http://ye23.win/iptv/sztv.php?id=4#http://149.129.100.78/sztv.php?id=4
+
+深圳都市,http://jdsw.top:8000/udp/239.77.1.176:5146
+深圳电视剧,http://jdsw.top:8000/udp/239.77.1.125:5146
+深圳公共,http://jdsw.top:8000/udp/239.77.1.178:5146
+深圳体育,http://jdsw.top:8000/udp/239.77.1.140:5146
+深圳娱乐,http://jdsw.top:8000/udp/239.77.1.243:5146
+深圳财经生活,http://jdsw.top:8000/udp/239.77.1.242:5146
+深圳少儿,http://jdsw.top:8000/udp/239.77.1.244:5146
+深圳宝安,http://jdsw.top:8000/udp/239.77.1.67:5146
+深圳龙岗,http://jdsw.top:8000/udp/239.77.1.223:5146
+深圳东部,http://jdsw.top:8000/udp/239.77.1.224:5146
+深圳众创,http://jdsw.top:8000/udp/239.77.1.247:5146
+深圳都市,http://ye23.win/iptv/sztv.php?id=2#http://149.129.100.78/sztv.php?id=2
+深圳电视剧,http://ye23.win/iptv/sztv.php?id=3#http://149.129.100.78/sztv.php?id=3
+深圳公共,http://ye23.win/iptv/sztv.php?id=4#http://149.129.100.78/sztv.php?id=4
 深圳财经生活,http://ye23.win/iptv/sztv.php?id=5#http://149.129.100.78/sztv.php?id=5
-深圳娱乐频道,http://ye23.win/iptv/sztv.php?id=6#http://149.129.100.78/sztv.php?id=6
-深圳少儿频道,http://ye23.win/iptv/sztv.php?id=7#http://149.129.100.78/sztv.php?id=7
+深圳娱乐,http://ye23.win/iptv/sztv.php?id=6#http://149.129.100.78/sztv.php?id=6
+深圳少儿,http://ye23.win/iptv/sztv.php?id=7#http://149.129.100.78/sztv.php?id=7
 深圳移动电视,http://ye23.win/iptv/sztv.php?id=8#http://149.129.100.78/sztv.php?id=8
 深圳宜和购物,http://ye23.win/iptv/sztv.php?id=9#http://149.129.100.78/sztv.php?id=9
 深圳龙岗,http://liveplay.sznews.com/66_norecord_live/357.m3u8
@@ -803,6 +815,12 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 生活,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+
+惠州1套,http://ye23.vip/z7z8/2021/0752.php?id=1
+惠州2套,http://ye23.vip/z7z8/2021/0752.php?id=2
+惠州新闻,http://livehuiz.chinamcache.com/live/zb01.m3u8
+惠州公共,http://livehuiz.chinamcache.com/live/zb02.m3u8
+
 惠州1套 ,http://livehuiz.chinamcache.com/live/zb01.m3u8#http://livehuiz.chinamcache.com/live/zb01.m3u8
 惠州2套 ,http://livehuiz.chinamcache.com/live/zb02.m3u8#http://livehuiz.chinamcache.com/live/zb02.m3u8
 惠东综合,http://www.ldiptv.xyz/daili/touchtv.php?id=2404
