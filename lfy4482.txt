@@ -863,6 +863,11 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 华丽台,http://v3948069e.live.126.net/live/BNSzPUIPt.flv
 明珠台,http://v3948069e.live.126.net/live/DYWTRbLPK.flv
 经典台,http://v3948069e.live.126.net/aliveflv/lZqkxF550.flv
+
+J2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
+
+J2,http://pl.laiyin.xyz/live/kds.m3u8?auth_key=1638699108-0-0-a4212e2099b13a1417730afd82c9e4b1
+
 J2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
 e,http://v3948069e.live.126.net/live/aliveflv/7kFz4uLHF.flv
 星河粤语,http://v3948069e.live.126.net/live/aliveflv/1PbN6bIih.flv
