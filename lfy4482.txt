@@ -877,27 +877,6 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
-翡翠台,http://v3948069e.live.126.net/live/ZpBezRdTm.flv
-华丽台,http://v3948069e.live.126.net/live/BNSzPUIPt.flv
-明珠台,http://v3948069e.live.126.net/live/DYWTRbLPK.flv
-经典台,http://v3948069e.live.126.net/aliveflv/lZqkxF550.flv
-
-J2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
-
-J2,http://pl.laiyin.xyz/live/kds.m3u8?auth_key=1638699108-0-0-a4212e2099b13a1417730afd82c9e4b1
-
-J2,http://v3948069e.live.126.net/live/aliveflv/RVvFXy2J4.flv
-e,http://v3948069e.live.126.net/live/aliveflv/7kFz4uLHF.flv
-星河粤语,http://v3948069e.live.126.net/live/aliveflv/1PbN6bIih.flv
-星河国语,http://v3948069e.live.126.net/live/aliveflv/SIhS4QVXJ.flv
-天映经典,http://v3948069e.live.126.net/live/aliveflv/EKdN8niWP.flv
-港版粤语美亚,http://v3948069e.live.126.net/live/aliveflv/XobK5APol.flv
-W版原声美亚,rtmp://v3948069e.live.126.net/live/aliveflv/EQLxEaWNq
-港版国语美亚,http://v3948069e.live.126.net/live/aliveflv/Xh0uW2xtk.flv
-无线新闻,http://v3948069e.live.126.net/live/hkwuxxxw123.flv
-无线财经,http://v3948069e.live.126.net/live/aliveflv/kW8Tlpx0X.flv
-有线新闻,http://v3948069e.live.126.net/live/hkyouxxw123.flv
-
 翡翠台,rtmp://v3948069e.live.126.net/live/ZpBezRdTm
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
