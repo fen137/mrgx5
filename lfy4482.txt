@@ -877,6 +877,7 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
+翡翠台,http://live209.kglink.xyz/hls/51/index_51.m3u8
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
 
@@ -912,6 +913,11 @@ J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 Now新闻,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
 RTHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
 RTHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
+
+有线新闻,http://61.10.2.137/liveJoemud_ts/_definst_/4-9b5eb383-1638960937-1639047517-47358d5a880ea24b197e92062523cbb9-8d9ba7cbde6d936_887-03/freehd209_h.live/playlist.m3u8
+有线财经,http://61.10.2.137/liveJoemud_ts/_definst_/4-9b5eb383-1638961100-1639047680-a2a652a5c5101b9cd3a39b1906ac9f41-8d9ba7d1edb1939_843-03/freehd208_h.live/playlist.m3u8
+有线直播,http://61.10.2.137/liveJoemud_ts/_definst_/4-9b5eb383-1638961188-1639047768-834bc897427ae47996cf00873e2cae89-8d9ba7d5349813f_735-03/Stream1/playlist.m3u8
+
 有线新闻,http://ai7499003.va1.aihost10.top/live/iptv_24.m3u8
 有线新闻,http://anan.jxin122.top/cj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 有线18台,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
