@@ -882,7 +882,8 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 明珠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+
+无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 无线直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
