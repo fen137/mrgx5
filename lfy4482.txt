@@ -891,15 +891,15 @@ TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
 美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
 美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-有线体育台,rtmp://59.124.75.157/sat/hk011
-有线18,18台,rtmp://59.124.75.157/sat/hk041
+有线新闻,https://api.leonardpark.dev/live/icable/109
+有线财经资讯,https://api.leonardpark.dev/live/icable/108
+有线直播新闻,https://api.leonardpark.dev/live/icable/110
+有线体育,rtmp://59.124.75.157/sat/hk011
+有线18,rtmp://59.124.75.157/sat/hk041
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
-Now新闻332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now直播331台,https://api.leonardpark.dev/live/now/331
+Now新闻,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播,https://api.leonardpark.dev/live/now/331
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
