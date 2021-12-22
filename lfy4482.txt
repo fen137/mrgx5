@@ -877,6 +877,32 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 
 港极速,#genre#
 
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+明珠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
+明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+无线直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB星河频道,http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
+美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+有线体育台,rtmp://59.124.75.157/sat/hk011
+有线18,18台,rtmp://59.124.75.157/sat/hk041
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+Now新闻332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+
 翡翠台,http://pullhls3948069e.live.126.net/live/88d286ee27b86cee0a76734d48e6d0a9/playlist.m3u8
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
