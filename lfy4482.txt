@@ -883,17 +883,17 @@ JY揭阳综合,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
 翡翠台,http://212.95.133.2/tv/js.php?id=4
 TVB经典,http://live.hodtv.vip:25461/live/2058/123/3742.ts
 明珠台,http://212.95.133.2/tv/js.php?id=6
-j2,http://212.95.133.2/tv/js.php?id=9
+J2,http://212.95.133.2/tv/js.php?id=9
 功夫台,http://212.95.133.2/tv/js.php?id=10
 无线新闻,http://212.95.133.2/tv/js.php?id=12
 无线财经,http://212.95.133.2/tv/js.php?id=13
 viutv6,http://212.95.133.2/tv/js.php?id=16
 RTHK31,http://212.95.133.2/tv/js.php?id=17
-now体育,http://212.95.133.2/tv/js.php?id=19
-now新闻,http://212.95.133.2/tv/js.php?id=20
+Now体育,http://212.95.133.2/tv/js.php?id=19
+Now新闻,http://212.95.133.2/tv/js.php?id=20
 无线18,http://live.hodtv.vip:25461/live/2058/123/3755.ts
 无线630,http://live.hodtv.vip:25461/live/2058/123/3756.ts
-TVB娱乐新闻,http://live.hodtv.vip:25461/live/2058/123/3758.ts
+TVB娱乐,http://live.hodtv.vip:25461/live/2058/123/3758.ts
 
 凤凰卫视,http://live.hodtv.vip:25461/2058/2500/3733
 
@@ -910,7 +910,7 @@ TVB明珠,http://live.hodtv.vip:25461/2058/2500/3738
 
 TVB星河,http://live.hodtv.vip:25461/2058/2500/3739
 
-TVB J2,http://live.hodtv.vip:25461/2058/2500/3740
+J2,http://live.hodtv.vip:25461/2058/2500/3740
 
 TVB功夫,http://live.hodtv.vip:25461/2058/2500/3741
 
