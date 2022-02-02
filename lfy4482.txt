@@ -457,12 +457,6 @@ RHK31,http://ai5619227.v2.aihost6.top/nntw1.php?id=96
 VIUTV,http://ai5619227.v2.aihost6.top/nntw1.php?id=94
 香港卫视,http://ai5619227.v2.aihost6.top/nntw1.php?id=93
 有线603,http://ai5619227.v2.aihost6.top/nntw1.php?id=92
-天映经典,http://ai5619227.v2.aihost6.top/nntw1.php?id=90
-美亚电影,http://ai5619227.v2.aihost6.top/nntw1.php?id=89
-莲花卫视,http://ai5619227.v2.aihost6.top/nntw1.php?id=88
-东风卫视,http://ai5619227.v2.aihost6.top/nntw1.php?id=87
-寰宇新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=85
-寰宇新闻2,http://ai5619227.v2.aihost6.top/nntw1.php?id=84
 互动新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=80
 无线财经,http://ai5619227.v2.aihost6.top/nntw1.php?id=79
 翡翠台,http://ai5619227.v2.aihost6.top/nntw1.php?id=78
@@ -567,13 +561,20 @@ VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 翡翠台,http://host496323.us.ooqr.com/pltv/gdgz.php?id=67-1&upt=7e4f8041b306488a
 翡翠台,http://94.130.13.27:45261/live/RPfM74ZNiq/XWcjx8dAEk/239.m3u8
 
+东风卫视,http://ai5619227.v2.aihost6.top/nntw1.php?id=87
+
 澳视澳门,http://ai5619227.v2.aihost6.top/nntw1.php?id=53
 澳视高清,http://ai5619227.v2.aihost6.top/nntw1.php?id=52
 澳视葡文台,http://ai5619227.v2.aihost6.top/nntw1.php?id=51
 澳视体育台,http://ai5619227.v2.aihost6.top/nntw1.php?id=50
 澳视生活台,http://ai5619227.v2.aihost6.top/nntw1.php?id=49
 澳视卫星台MACAU,http://ai5619227.v2.aihost6.top/nntw1.php?id=48
+莲花卫视,http://ai5619227.v2.aihost6.top/nntw1.php?id=88
 
+天映经典,http://ai5619227.v2.aihost6.top/nntw1.php?id=90
+美亚电影,http://ai5619227.v2.aihost6.top/nntw1.php?id=89
+寰宇新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=85
+寰宇新闻2,http://ai5619227.v2.aihost6.top/nntw1.php?id=84
 台湾中视,http://ai5619227.v2.aihost6.top/nntw1.php?id=47
 台湾华视,http://ai5619227.v2.aihost6.top/nntw1.php?id=46
 台湾台视,http://ai5619227.v2.aihost6.top/nntw1.php?id=45
