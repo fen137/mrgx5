@@ -510,6 +510,7 @@ RHK31,http://live.hodtv.vip:25461/2058/2500/3748
 
 RHK32,http://live.hodtv.vip:25461/2058/2500/3749
 
+NOW新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8,http://livetv.dnsfor.me:80/channel.3.m3u8
 NOW体育,http://live.hodtv.vip:25461/2058/2500/3750
 
 NOW直播,http://live.hodtv.vip:25461/2058/2500/3751
@@ -550,8 +551,7 @@ J2,http://iptv.tvfix.org/hls/j2.m3u8
 有线体育,rtmp://59.124.75.157/sat/hk011
 有线18,rtmp://59.124.75.157/sat/hk041
 NOW体育,http://livetv.dnsfor.me/channel.12.m3u8
-NOW新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8
-NOW直播,http://livetv.dnsfor.me:80/channel.3.m3u8
+NOW新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8,http://livetv.dnsfor.me:80/channel.3.m3u8
 NOW直播,https://api.leonardpark.dev/live/now/331
 NOW体育,http://45.11.1.58:8080/channels/now_sports/playlist.m3u8
 VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
