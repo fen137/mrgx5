@@ -465,6 +465,9 @@ VIUTV,http://ai5619227.v2.aihost6.top/nntw1.php?id=94
 J2,http://ai5619227.v2.aihost6.top/nntw1.php?id=74
 无线新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=73
 功夫台,http://ai5619227.v2.aihost6.top/nntw1.php?id=72
+
+有线新闻,https://www.jmsooo.com/tbs.php?id=24#http://dllb.jxin122.top/jj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+
 有线新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=62
 有线电影,http://ai5619227.v2.aihost6.top/nntw1.php?id=61
 有线18,http://ai5619227.v2.aihost6.top/nntw1.php?id=59
@@ -510,7 +513,8 @@ RHK31,http://live.hodtv.vip:25461/2058/2500/3748
 
 RHK32,http://live.hodtv.vip:25461/2058/2500/3749
 
-NOW新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8,http://livetv.dnsfor.me:80/channel.3.m3u8
+NOW新闻,https://www.jmsooo.com/tbs.php?id=16
+NOW新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8#http://livetv.dnsfor.me:80/channel.3.m3u8
 NOW体育,http://live.hodtv.vip:25461/2058/2500/3750
 
 NOW直播,http://live.hodtv.vip:25461/2058/2500/3751
