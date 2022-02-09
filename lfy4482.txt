@@ -187,12 +187,13 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 广东地区,#genre#
 
 广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东体育,http://119.129.58.100:4433/tsfile/live/1000_1.m3u8
-广东体育,http://host496323.us.ooqr.com/pltv/gz.php?id=gdty
 广东经济科教,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1196
 广东新闻,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1186
 广东公共,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1185
+
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育.http://mmitv.top/pltv/gdgz.php?id=gdty&upt=604ef0611cb50f83
+
 广东影视,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1199
 揭阳综合,http://113.101.28.169:808/hls/56/index.m3u8
 揭阳综合,http://host496323.us.ooqr.com/pltv/gz.php?id=21
