@@ -156,11 +156,13 @@ CCTV-央视台球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&pro
 宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1
 体育频道,#genre#
 
-广东体育,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879#http://hongyanqiang.top/chudian.php?id=gdty#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8
-广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8#http://ye23.win/iptv/gztv.php?id=jingsai
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育.http://mmitv.top/pltv/gdgz.php?id=gdty&upt=604ef0611cb50f83
+
+广东体育,http://tyzb2021.chxjon.cn:80/iptv-cdn/公众号=太阳资讯/tyzb01.php?id=gdsportsHD_7000#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://hongyanqiang.top/chudian.php?id=gdty
 
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
-CCTV-5体育,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605707201#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8#http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+CCTV-5体育,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
 CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 CCTV风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
