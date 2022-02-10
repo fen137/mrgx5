@@ -154,6 +154,40 @@ CCTV-央视台球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&pro
 西藏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1
+体育频道,#genre#
+
+广东体育,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879#http://hongyanqiang.top/chudian.php?id=gdty#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8
+广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8#http://ye23.win/iptv/gztv.php?id=jingsai
+
+PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
+CCTV-5体育,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019032399000002%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73228&online=1605707201#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8#http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
+CCTV风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+快乐垂钓,http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+劲爆体育HD,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球HD,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
+CCTV16奥林匹克4k超高清,http://ccav.smymi.com:4000/rtp/239.93.42.54:5140
+CCTV16奥林匹克,https://live.olympicchannelchina.cn:443/aoyun/cctv16_1td.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1ud.m3u8
+CCTV16奥林匹克,https://live.olympicchannelchina.cn:443/aoyun/cctv16_1hd.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1md.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
+纬来体育,rtmp://59.124.75.157:1935/sat/tv721#rtmp://59.124.75.157/sat/tv721
+爱尔达体育1台,rtmp://59.124.75.157:1935/sat/md011#rtmp://59.124.75.157/sat/md011
+爱尔达体育2台,rtmp://59.124.75.157:1935/sat/md051#rtmp://59.124.75.157/sat/md051
+博斯运动‖,rtmp://59.124.75.157:1935/sat/md041#rtmp://59.124.75.157/sat/md041
+博斯魅力‖,rtmp://59.124.75.157:1935/sat/md031#rtmp://59.124.75.157/sat/md031
+博斯网球,rtmp://59.124.75.157:1935/sat/md021#rtmp://59.124.75.157/sat/md021
+ELEVEN1台,rtmp://59.124.75.157:1935/sat/tv731#rtmp://59.124.75.157/sat/tv731
+ELEVEN2台,rtmp://59.124.75.157:1935/sat/tv74#rtmp://59.124.75.157/sat/tv741
+纬来日本,rtmp://59.124.75.157:1935/sat/tv771#rtmp://59.124.75.157/sat/tv771
+博斯魅力,rtmp://59.124.75.157:1935/sat/md031#rtmp://59.124.75.157/sat/md031
+MoMo台,rtmp://59.124.75.157:1935/sat/tv761#rtmp://59.124.75.157/sat/tv761
+香港有线体育台,rtmp://59.124.75.157:1935/sat/hk021#rtmp://59.124.75.157/sat/hk021
+香港有线18台,rtmp://59.124.75.157:1935/sat/hk041#rtmp://59.124.75.157/sat/hk041
+香港有线 SPORTS,rtmp://59.124.75.157:1935/sat/hk011#rtmp://59.124.75.157/sat/hk011
 
 4K频道,#genre#
 cctt-4K,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/ys4Kcq.m3u8 $4K
