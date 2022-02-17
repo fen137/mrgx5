@@ -547,10 +547,10 @@ J2,http://183.0.186.207:8088/hls/90/index.m3u8
 J2,http://live.hodtv.vip:25461/live/5633/123/3740.ts
 无线新闻,http://live.hodtv.vip:25461/live/5633/123/3743.ts
 无线财经,http://live.hodtv.vip:25461/live/5633/123/3744.ts
-ViuTV,http://live.hodtv.vip:25461/live/5633/123/3746.ts
-ViuTVsix,http://live.hodtv.vip:25461/live/5633/123/3747.ts
+VIUTV,http://live.hodtv.vip:25461/live/5633/123/3746.ts
+VIUTV6,http://live.hodtv.vip:25461/live/5633/123/3747.ts
 港台31,http://live.hodtv.vip:25461/live/5633/123/3748.ts
-港熊32,http://live.hodtv.vip:25461/live/5633/123/3749.ts
+港台32,http://live.hodtv.vip:25461/live/5633/123/3749.ts
 有线新闻,http://live.hodtv.vip:25461/live/5633/123/3753.ts
 有线财经,http://live.hodtv.vip:25461/live/5633/123/3754.ts
 有线18,http://live.hodtv.vip:25461/live/5633/123/3755.ts
@@ -690,10 +690,10 @@ Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 有线直播,https://api.leonardpark.dev/live/icable/110
 有线体育,rtmp://59.124.75.157/sat/hk011
 有线18,rtmp://59.124.75.157/sat/hk041
-NOW体育,http://livetv.dnsfor.me/channel.12.m3u8
-NOW新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8,http://livetv.dnsfor.me:80/channel.3.m3u8
-NOW直播,https://api.leonardpark.dev/live/now/331
-NOW体育,http://45.11.1.58:8080/channels/now_sports/playlist.m3u8
+Now体育,http://livetv.dnsfor.me/channel.12.m3u8
+Now新闻,http://45.11.1.58:8080/channels/now_news/playlist.m3u8#http://livetv.dnsfor.me:80/channel.4.m3u8,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播,https://api.leonardpark.dev/live/now/331
+Now体育,http://45.11.1.58:8080/channels/now_sports/playlist.m3u8
 VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
