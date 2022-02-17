@@ -152,42 +152,6 @@ CCTV-央视台球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&pro
 西藏卫视,http://39.135.138.50:18890/PLTV/88888910/224/3221225723/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1
-体育频道,#genre#
-
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育.http://mmitv.top/pltv/gdgz.php?id=gdty&upt=604ef0611cb50f83
-
-广东体育,http://tyzb2021.chxjon.cn:80/iptv-cdn/公众号=太阳资讯/tyzb01.php?id=gdsportsHD_7000#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://hongyanqiang.top/chudian.php?id=gdty
-
-PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
-CCTV-5体育,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
-CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
-IPTV5+,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-CCTV风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-CCTV高尔夫球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
-快乐垂钓,http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
-新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-劲爆体育HD,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
-魅力足球HD,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
-CCTV16奥林匹克4k超高清,http://ccav.smymi.com:4000/rtp/239.93.42.54:5140
-CCTV16奥林匹克,https://live.olympicchannelchina.cn:443/aoyun/cctv16_1td.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1ud.m3u8
-CCTV16奥林匹克,https://live.olympicchannelchina.cn:443/aoyun/cctv16_1hd.m3u8#https://live.olympicchannelchina.cn:443/aoyun/cctv16_1md.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
-纬来体育,rtmp://59.124.75.157:1935/sat/tv721#rtmp://59.124.75.157/sat/tv721
-爱尔达体育1台,rtmp://59.124.75.157:1935/sat/md011#rtmp://59.124.75.157/sat/md011
-爱尔达体育2台,rtmp://59.124.75.157:1935/sat/md051#rtmp://59.124.75.157/sat/md051
-博斯运动‖,rtmp://59.124.75.157:1935/sat/md041#rtmp://59.124.75.157/sat/md041
-博斯魅力‖,rtmp://59.124.75.157:1935/sat/md031#rtmp://59.124.75.157/sat/md031
-博斯网球,rtmp://59.124.75.157:1935/sat/md021#rtmp://59.124.75.157/sat/md021
-ELEVEN1台,rtmp://59.124.75.157:1935/sat/tv731#rtmp://59.124.75.157/sat/tv731
-ELEVEN2台,rtmp://59.124.75.157:1935/sat/tv74#rtmp://59.124.75.157/sat/tv741
-纬来日本,rtmp://59.124.75.157:1935/sat/tv771#rtmp://59.124.75.157/sat/tv771
-博斯魅力,rtmp://59.124.75.157:1935/sat/md031#rtmp://59.124.75.157/sat/md031
-MoMo台,rtmp://59.124.75.157:1935/sat/tv761#rtmp://59.124.75.157/sat/tv761
-香港有线体育台,rtmp://59.124.75.157:1935/sat/hk021#rtmp://59.124.75.157/sat/hk021
-香港有线18台,rtmp://59.124.75.157:1935/sat/hk041#rtmp://59.124.75.157/sat/hk041
-香港有线 SPORTS,rtmp://59.124.75.157:1935/sat/hk011#rtmp://59.124.75.157/sat/hk011
 
 4K频道,#genre#
 cctt-4K,http://yinhe-live.yinhe.vs.rxip.sc96655.com/live/ys4Kcq.m3u8 $4K
@@ -651,35 +615,6 @@ GRTN文化频道,http://ai5619227.v2.aihost6.top/daili.php?/iTouchTV/2511
 无线财经,http://206.119.173.184/tv/js.php?id=13
 
 ViUTV,http://206.119.173.184/tv/js.php?id=15
-
-凤凰中文,http://ai5619227.v2.aihost6.top/nntw1.php?id=100
-凤凰资讯,http://ai5619227.v2.aihost6.top/nntw1.php?id=99
-凤凰香港,http://ai5619227.v2.aihost6.top/nntw1.php?id=98
-RHK32,http://ai5619227.v2.aihost6.top/nntw1.php?id=97
-RHK31,http://ai5619227.v2.aihost6.top/nntw1.php?id=96
-香港开电视,http://ai5619227.v2.aihost6.top/nntw1.php?id=95
-VIUTV,http://ai5619227.v2.aihost6.top/nntw1.php?id=94
-香港卫视,http://ai5619227.v2.aihost6.top/nntw1.php?id=93
-有线603,http://ai5619227.v2.aihost6.top/nntw1.php?id=92
-互动新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=80
-无线财经,http://ai5619227.v2.aihost6.top/nntw1.php?id=79
-翡翠台,http://ai5619227.v2.aihost6.top/nntw1.php?id=78
-明珠台,http://ai5619227.v2.aihost6.top/nntw1.php?id=77
-星河台,http://ai5619227.v2.aihost6.top/nntw1.php?id=76
-J2,http://ai5619227.v2.aihost6.top/nntw1.php?id=74
-无线新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=73
-功夫台,http://ai5619227.v2.aihost6.top/nntw1.php?id=72
-
-有线新闻,https://www.jmsooo.com/tbs.php?id=24#http://dllb.jxin122.top/jj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-
-有线新闻,http://ai5619227.v2.aihost6.top/nntw1.php?id=62
-有线电影,http://ai5619227.v2.aihost6.top/nntw1.php?id=61
-有线18,http://ai5619227.v2.aihost6.top/nntw1.php?id=59
-有线足球,http://ai5619227.v2.aihost6.top/nntw1.php?id=58
-有线体育,http://ai5619227.v2.aihost6.top/nntw1.php?id=57
-有线NBA直播,http://ai5619227.v2.aihost6.top/nntw1.php?id=56
-有线球彩,http://ai5619227.v2.aihost6.top/nntw1.php?id=55
-有线好莱坞电影,http://ai5619227.v2.aihost6.top/nntw1.php?id=54
 
 经典台,http://live.hodtv.vip:25461/live/2058/123/3742.ts
 无线18,http://live.hodtv.vip:25461/live/2058/123/3755.ts
