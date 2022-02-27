@@ -1,5 +1,9 @@
 央視頻道,#genre#
 
+俄乌冲突直击,https://plwb20.live.weibo.com/alicdn/4740370270786080_wb480avc.m3u8
+俄乌直播,https://plwb00.live.weibo.com/alicdn/4740382749365444.m3u8
+
+乌克兰首都,http://pull-hls-f1.douyincdn.com/media/stream-110425572115480713_sd/playlist.m3u8
 CCTV01-综合,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive
 
 CCTV01-综合,http://223.110.254.137:6610/cntv/live1/cctv-1/cctv-1.m3u8
@@ -188,6 +192,56 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 广东地区,#genre#
 
+广东珠江,http://103.140.229.13/gudou.php?id=gdzhujiang_1500
+广东公共,http://103.140.229.13/gudou.php?id=gdpublic_1500
+广东新闻,http://103.140.229.13/gudou.php?id=gdnews_1500
+广东体育,http://103.140.229.13/gudou.php?id=gdsports_1500
+南方卫视,http://103.140.229.13/gudou.php?id=gdnanfang_1500
+广东经视,http://103.140.229.13/gudou.php?id=GDjingjikejiaoHD_3000
+广东影视,http://103.140.229.13/gudou.php?id=gdyingshi_1500
+广东少儿,http://103.140.229.13/gudou.php?id=gdshaoer_1500
+广东房产,http://103.140.229.13/gudou.php?id=fangchan_1500
+现代教育,http://103.140.229.13/gudou.php?id=xiandaijiaoyu_1500
+岭南戏曲,http://103.140.229.13/gudou.php?id=lingnanxiqu_1500
+广州综合,http://103.140.229.13/gudou.php?id=angzhou_1500
+广州新闻,http://103.140.229.13/gudou.php?id=gznews_1500
+广州经济,http://103.140.229.13/gudou.php?id=gzeconomic_1500
+广州生活,http://103.140.229.13/gudou.php?id=gzlife_1500
+广州竞赛,http://103.140.229.13/gudou.php?id=gzcompetition_1500
+广州影视,http://103.140.229.13/gudou.php?id=gzfilms_1500
+广州少儿,http://103.140.229.13/gudou.php?id=gzchild_1500
+南海综合,http://103.140.229.13/gudou.php?id=nanhaitai_2000
+顺德综合,http://103.140.229.13/gudou.php?id=shundetai_2000
+新会综合,http://103.140.229.13/gudou.php?id=xinhui_1500
+佛山综合,http://103.140.229.13/gudou.php?id=foshannews_1500
+佛山公共,http://103.140.229.13/gudou.php?id=foshanyingshi_1500
+湛江综合,http://103.140.229.13/gudou.php?id=zhanjiangzonghe_1500
+湛江公共,http://103.140.229.13/gudou.php?id=zhanjianggongong_1500
+韶关综合,http://103.140.229.13/gudou.php?id=shao文件名anzonghe_1500
+韶关公共,http://103.140.229.13/gudou.php?id=shao文件名angonggong_1500
+博罗经典,http://103.140.229.13/gudou.php?id=boluojingdian_1500
+博罗综合,http://103.140.229.13/gudou.php?id=boluozonghe_1500
+云浮一套,http://103.140.229.13/gudou.php?id=yunfuyitao_1500
+云浮二套,http://103.140.229.13/gudou.php?id=yunfuertao_1500
+珠海一套,http://103.140.229.13/gudou.php?id=zhuhaiyitao_1500
+珠海二套,http://103.140.229.13/gudou.php?id=zhuhaiertao_1500
+潮州一套,http://103.140.229.13/gudou.php?id=chaozhouyitao_1500
+潮州二套,http://103.140.229.13/gudou.php?id=chaozhouertao_1500
+东莞一套,http://080880qazwsx.ve5.aihost10.top/gudou08.php?id=dongguanyitao_1500
+东莞二套,http://080880qazwsx.ve5.aihost10.top/gudou08.php?id=dongguanertao_1500
+江门一套,http://103.140.229.13/gudou.php?id=jiangmenyitao_1500
+江门二套,http://103.140.229.13/gudou.php?id=jiangmenertao_1500
+中山一套,http://103.140.229.13/gudou.php?id=zhongshanyitao_1500
+中山二套,http://103.140.229.13/gudou.php?id=zhongshanertao_1500
+河源一套,http://103.140.229.13/gudou.php?id=heyuanyitao_1500
+河源二套,http://103.140.229.13/gudou.php?id=heyuanertao_1500
+肇庆一套,http://103.140.229.13/gudou.php?id=zhaoqingyitao_1500
+肇庆二套,http://103.140.229.13/gudou.php?id=zhaoqingertao_1500
+惠州一套,http://103.140.229.13/gudou.php?id=huizhouyitao_1500
+惠州二套,http://103.140.229.13/gudou.php?id=huizhouertao_1500
+汕头一套,http://103.140.229.13/gudou.php?id=shantouyitaogaoqing_1500
+汕头二套,http://103.140.229.13/gudou.php?id=shantouertaogaoqing_1500
+汕头三套,http://103.140.229.13/gudou.php?id=shantousantaogaoqing_1500
 广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东经济科教,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1196
 广东新闻,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1186
@@ -527,24 +581,27 @@ CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 南国都市,http://aplay.gztv.com/sec/shenghuos.m3u8
 港澳台,#genre#
 
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://dllb.jxin122.top/jj.php?id=0100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52#http://dllb.jxin122.top/jj.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8#http://dllb.jxin122.top/jj.php?id=099&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰香港,http://dllb.jxin122.top/jj.php?id=098&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52#http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA#http://hdtv.lzu6.edu.cn/hls/fhdy.m3u8#http://hdtv.haust.edu.cn/hls/fhdy.m3u8
+翡翠台,http://113.64.147.157:808/hls/67/index.m3u8
+无线新闻,http://159.75.123.131/xiaoqi/tvb.php?id=1#http://dm1133.kglink.xyz/live/02.flv
+J2,http://183.0.186.207:8088/hls/90/index.m3u8#http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52#http://dllb.jxin122.top/jj.php?id=074&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52#http://www.295ys.cf/abc.php?id=74
 
-无线新闻,http://159.75.123.131/xiaoqi/tvb.php?id=1
-J2,http://183.0.186.207:8088/hls/90/index.m3u8
-
-无线新闻,http://dm1133.kglink.xyz/play/02.ts
-有线新闻,http://dm1133.kglink.xyz/play/03.ts
-Now新闻,http://dm1133.kglink.xyz/play/04.ts
-港台31,http://dm1133.kglink.xyz/play/05.ts
-港台32,http://dm1133.kglink.xyz/play/06.ts
+无线新闻,http://dm1133.kglink.xyz/live/02.flv
+有线新闻,http://dm1133.kglink.xyz/live/03.flv#http://dm1133.kglink.xyz/live/03.flv#http://dllb.jxin122.top/jj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52#http://dllb.jxin122.top/jj.php?id=062&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+Now新闻,http://dm1133.kglink.xyz/live/04.flv
+港台31,http://dm1133.kglink.xyz/live/05.flv
+港台32, http://www.295ys.cf/abc.php?id=97#http://dm1133.kglink.xyz/live/06.flv
 有线电影,http://206.119.173.184/ab/yhhh.php?id=9a8782284001809ce143c4fdf33afac8
 有线18,http://206.119.173.184/ab/yhhh.php?id=f52273fce31ce36df87adea0d4064878
 有线直播新闻,http://206.119.173.184/ab/yhhh.php?id=52b7be7aae2ca07aac45fa86ca95bb4a
+
+Now新闻,http://61.222.202.191/tbs.php?id=16
 Now直播,http://206.119.173.184/ab/yhhh.php?id=602da3133003370cb4f68813b6aacbbb
-Now新闻,http://206.119.173.184/ab/yhhh.php?id=2a9b03d23a2fafb5874c7324c50f3c28
+
+
 Now体育,http://206.119.173.184/ab/yhhh.php?id=32af11248633e7fda85e7467905585b1
 
 翡翠台,http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -570,41 +627,41 @@ Channel[V],http://live.hodtv.vip:25461/live/5633/123/3872.ts
 星空卫视,http://live.hodtv.vip:25461/live/5633/123/3873.ts
 
 龙祥时代,http://dllb.jxin122.top/jj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-卫视中文台,http://dllb.jxin122.top/jj.php?id=4&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-民视新闻台,http://dllb.jxin122.top/jj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-非凡新闻台,http://dllb.jxin122.top/jj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-年代新闻台,http://dllb.jxin122.top/jj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+卫视中文,http://dllb.jxin122.top/jj.php?id=4&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视新闻,http://dllb.jxin122.top/jj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+非凡新闻,http://dllb.jxin122.top/jj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+年代新闻,http://dllb.jxin122.top/jj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 纬来育樂,http://dllb.jxin122.top/jj.php?id=9&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 纬来体育,http://dllb.jxin122.top/jj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中视新闻,http://dllb.jxin122.top/jj.php?id=19&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立台湾台,http://dllb.jxin122.top/jj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立都会台,http://dllb.jxin122.top/jj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立新闻台,http://dllb.jxin122.top/jj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森电影台,http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立台湾,http://dllb.jxin122.top/jj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立都会,http://dllb.jxin122.top/jj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立新闻,http://dllb.jxin122.top/jj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森电影,http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 东森幼幼,http://dllb.jxin122.top/jj.php?id=31&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森综合台,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-东森新闻台,http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森综合,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+东森新闻,http://dllb.jxin122.top/jj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 八大综合台,http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 八大娱乐台,http://dllb.jxin122.top/jj.php?id=20&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 八大第一台,http://dllb.jxin122.top/jj.php?id=21&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-壹电视新闻台,http://dllb.jxin122.top/jj.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+壹电视新闻,http://dllb.jxin122.top/jj.php?id=34&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-TVBS新闻台,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天亚洲台,http://dllb.jxin122.top/jj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天娱乐台,http://dllb.jxin122.top/jj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天综合台,http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-中天新闻台,http://dllb.jxin122.top/jj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS新闻,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天亚洲,http://dllb.jxin122.top/jj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天娱乐,http://dllb.jxin122.top/jj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天综合,http://dllb.jxin122.top/jj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天新闻,http://dllb.jxin122.top/jj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 公视,http://dllb.jxin122.top/jj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 民视,http://dllb.jxin122.top/jj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 台视,http://dllb.jxin122.top/jj.php?id=45&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 华视,http://dllb.jxin122.top/jj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中视,http://dllb.jxin122.top/jj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
-东森新闻,http://dm1133.kglink.xyz/play/07.ts
-三立ilive,http://dm1133.kglink.xyz/play/08.ts
-三立live,http://dm1133.kglink.xyz/play/09.ts
-中天新闻,http://dm1133.kglink.xyz/play/10.ts
-寰宇新闻,http://dm1133.kglink.xyz/play/11.ts
+东森新闻,http://dm1133.kglink.xyz/live/07.flv
+三立ilive,http://dm1133.kglink.xyz/live/08.flv
+三立live,http://dm1133.kglink.xyz/live/09.flv
+中天新闻,http://dm1133.kglink.xyz/live/10.flv
+寰宇新闻,http://dm1133.kglink.xyz/live/11.flv
 
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
@@ -619,8 +676,8 @@ J2,http://iptv.tvfix.org/hls/j22.m3u8
 无线财经,http://iptv.tvfix.org/hls/finance.m3u8
 无线财经,http://iptv.tvfix.org/hls/finance2.m3u8
 无线财经,http://iptv.tvfix.org/hls/financenhk.m3u8
-TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
-TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+TVBS亚洲,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻,http://iptv.tvfix.org/hls/tvbsnews.m3u8
 美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
 美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
 天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
@@ -666,34 +723,33 @@ Now体育,http://45.11.1.58:8080/channels/now_sports/playlist.m3u8
 VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
-民視,http://61.222.202.191/gttv.php?id=13669&cid=13822
-民視戲劇台,http://61.222.202.191/gttv.php?id=13651&cid=13803
+民视,http://61.222.202.191/gttv.php?id=13669&cid=13822
+民视戏剧,http://61.222.202.191/gttv.php?id=13651&cid=13803
 
-民視綜藝台,http://61.222.202.191/gttv.php?id=13653&cid=13805
+民视综艺,http://61.222.202.191/gttv.php?id=13653&cid=13805
 
-民視旅遊台,http://61.222.202.191/gttv.php?id=13655&cid=13807
+民视旅游,http://61.222.202.191/gttv.php?id=13655&cid=13807
 
-華視,http://61.222.202.191/gttv.php?id=13676&cid=13829
+华视,http://61.222.202.191/gttv.php?id=13676&cid=13829
 
-中視,http://61.222.202.191/gttv.php?id=13681&cid=13834
+中视,http://61.222.202.191/gttv.php?id=13681&cid=13834
 
-台視,http://61.222.202.191/gttv.php?id=14185&cid=14345
+台视,http://61.222.202.191/gttv.php?id=14185&cid=14345
 
-公視戲劇台,http://61.222.202.191/gttv.php?id=14159&cid=14319
+公视戏剧,http://61.222.202.191/gttv.php?id=14159&cid=14319
 
-民視台灣台,http://61.222.202.191/gttv.php?id=13671&cid=13824
+民视台湾,http://61.222.202.191/gttv.php?id=13671&cid=13824
 
-民視第一台,http://61.222.202.191/gttv.php?id=13672&cid=13825
+民视第一台,http://61.222.202.191/gttv.php?id=13672&cid=13825
 
-中視經典台,http://61.222.202.191/gttv.php?id=13683&cid=13836
+中视经典,http://61.222.202.191/gttv.php?id=13683&cid=13836
 
-中視菁采台,http://61.222.202.191/gttv.php?id=13684&cid=13837
+中视菁采,http://61.222.202.191/gttv.php?id=13684&cid=13837
+亚洲旅游,http://61.222.202.191/gttv.php?id=11462&cid=11462
 
-亞洲旅遊台,http://61.222.202.191/gttv.php?id=11462&cid=11462
+中天美食,http://61.222.202.191/gttv.php?id=14193&cid=14353
 
-中天美食台,http://61.222.202.191/gttv.php?id=14193&cid=14353
-
-中天綜合台,http://61.222.202.191/gttv.php?id=14187&cid=14347
+中天综合,http://61.222.202.191/gttv.php?id=14187&cid=14347
 
 八大綜合台,http://61.222.202.191/gttv.php?id=13660&cid=13812
 
@@ -711,38 +767,38 @@ VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 TVBS,http://61.222.202.191/gttv.php?id=15131&cid=15294
 
-TVBS新聞,http://61.222.202.191/gttv.php?id=15132&cid=15295
+TVBS新闻,http://61.222.202.191/gttv.php?id=15132&cid=15295
 
-TVBS歡樂,http://61.222.202.191/gttv.php?id=15133&cid=15296
+TVBS欢乐,http://61.222.202.191/gttv.php?id=15133&cid=15296
 
 TVBS精采,http://61.222.202.191/gttv.php?id=15134&cid=15297
 
-東森新聞,http://61.222.202.191/gttv.php?id=13635&cid=13787
+东森新闻,http://61.222.202.191/gttv.php?id=13635&cid=13787
 
-中天新聞,http://61.222.202.191/gttv.php?id=13679&cid=13832
+中天新闻,http://61.222.202.191/gttv.php?id=13679&cid=13832
 
 中天全民,http://61.222.202.191/gttv.php?id=14192&cid=14352
 
-寰宇新聞,http://61.222.202.191/gttv.php?id=14170&cid=14330
-寰宇台灣,http://61.222.202.191/gttv.php?id=14172&cid=14332
+寰宇新闻,http://61.222.202.191/gttv.php?id=14170&cid=14330
+寰宇台湾,http://61.222.202.191/gttv.php?id=14172&cid=14332
 
 三立iNEWS,http://61.222.202.191/gttv.php?id=11419&cid=11420
 
-台視新聞,http://61.222.202.191/gttv.php?id=11417&cid=11408
+台视新闻,http://61.222.202.191/gttv.php?id=11417&cid=11408
 
-民視新聞,http://61.222.202.191/gttv.php?id=13670&cid=13823
+民视新闻,http://61.222.202.191/gttv.php?id=13670&cid=13823
 
-華視新聞,http://61.222.202.191/gttv.php?id=13677&cid=13830
+华視新闻,http://61.222.202.191/gttv.php?id=13677&cid=13830
 
-非凡新聞,http://61.222.202.191/gttv.php?id=11327&cid=11345
+非凡新闻,http://61.222.202.191/gttv.php?id=11327&cid=11345
 
-亞洲新聞,http://61.222.202.191/gttv.php?id=14064&cid=14224
+亚洲新闻,http://61.222.202.191/gttv.php?id=14064&cid=14224
 
-BBC國際新聞,http://61.222.202.191/gttv.php?id=13668&cid=13821
+BBC新闻,http://61.222.202.191/gttv.php?id=13668&cid=13821
 
-CNN國際新聞,http://61.222.202.191/gttv.php?id=13643&cid=13795
+CNN新闻,http://61.222.202.191/gttv.php?id=13643&cid=13795
 
-CNN頭條新聞,http://61.222.202.191/gttv.php?id=13644&cid=13796
+CNN头条,http://61.222.202.191/gttv.php?id=13644&cid=13796
 
 CNBC,http://61.222.202.191/gttv.php?id=13693&cid=13846
 
@@ -885,7 +941,7 @@ TVBS新闻,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u
 TVBS HD,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 东森财经,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
 寰宇新闻,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-壹新闻台,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+壹电视新闻,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 CNN新闻,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 CNBC新闻,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 Bloomberg,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
